@@ -1,0 +1,25 @@
+{
+  "model_type": "LinearRegression",
+  "features_used": [
+    "Hour",
+    "Day_of_Week",
+    "Is_Weekend",
+    "Is_Rush_Hour",
+    "Temperature",
+    "Humidity",
+    "Pressure",
+    "Wind_Speed",
+    "Location_Binh_Thanh",
+    "Location_District_1",
+    "Location_Phu_My_Hung",
+    "Location_Tan_Son_Nhat",
+    "Location_Thu_Thiem"
+  ],
+  "target_variable": "Current_Speed",
+  "performance_metrics": {
+    "mse": 21.83487984956166,
+    "rmse": 4.672780740582812,
+    "r2_score": 0.8598057595767978
+  },
+  "training_date": "2025-09-17 06:14:41"
+}
