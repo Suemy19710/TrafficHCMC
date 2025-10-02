@@ -1,6 +1,0 @@
-Location,Timestamp,Current_Speed,Free_Flow_Speed,Confidence,Congestion_Level,Road_Closure,Temperature_x,Humidity_x,Wind_Speed_x,Rainfall_x,Temperature_y,Humidity_y,Wind_Speed_y,Rainfall_y
-District_1,2025-09-17 06:39:30.825241,12,25,1,206.06060606060606,False,29.99,74,3.6,0,,,,
-Thu_Thiem,2025-09-17 06:39:30.825241,40,40,1,100.0,False,29.99,74,3.6,0,,,,
-Tan_Son_Nhat,2025-09-17 06:39:30.825241,31,31,1,100.0,False,29.99,74,3.6,0,,,,
-Binh_Thanh,2025-09-17 06:39:30.825241,26,33,1,127.41116751269035,False,29.99,74,3.6,0,,,,
-Phu_My_Hung,2025-09-17 06:39:30.825241,42,42,1,100.0,False,29.99,74,3.6,0,,,,
