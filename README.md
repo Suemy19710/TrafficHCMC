@@ -85,7 +85,7 @@ cd website/frontend
 npm install
 
 # Start development server
-npm start
+npm run dev
 ```
 
 The application will open at `http://localhost:3000`
@@ -195,9 +195,6 @@ The system provides full transparency:
 
 ---
 
-
-
----
 
 <div align="center">
 
