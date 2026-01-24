@@ -197,6 +197,13 @@ The system provides full transparency:
 - Clear explanation of prediction factors
 
 ---
+## 👤 Author
+
+**Nguyen Nhat Khanh Linh**  
+Fontys University of Applied Science  
+November 2025
+
+---
 
 
 <div align="center">
