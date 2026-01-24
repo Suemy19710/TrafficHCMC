@@ -90,6 +90,9 @@ npm run dev
 
 The application will open at `http://localhost:3000`
 
+![Project Screenshot](images/image1.png)
+![Project Screenshot](images/image2.png)
+
 ---
 
 ## 🔌 API Documentation
